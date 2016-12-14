@@ -36,8 +36,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Gminna Spółdzielnia \"Samopomoc Chłopska\" w Lubaniu",
+        "meta_descr": "Spółdzielnia działająca na lokalnym rynku od przeszło 70 lat, której działalność koncentruje się na wynajmie nieruchomości, produkcji pieczywa, handlu detalicznym oraz obrocie złomem metali.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
